@@ -5,7 +5,7 @@ The notebooks focus on fundamental image processing and classical computer visio
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x  
 - OpenCV (cv2)  
@@ -15,11 +15,7 @@ The notebooks focus on fundamental image processing and classical computer visio
 
 ---
 
-## 🔬 Experiments & Analysis
-
----
-
-### **1️⃣ Morphological Operations**
+### ** Morphological Operations**
 **Notebook:** `unit_1_morphological_operations.ipynb`
 
 #### Concepts Implemented
@@ -43,7 +39,7 @@ Morphological operations are used to:
 
 ---
 
-### **2️⃣ Object Detection using Template Matching**
+### ** Object Detection using Template Matching**
 **Notebook:** `unit_2_Object detection by template matching.ipynb`
 
 #### Algorithm Used
@@ -60,7 +56,7 @@ The template image is slid over the source image, and similarity scores are comp
 
 ---
 
-### **3️⃣ Feature Detection using FAST Algorithm**
+### ** Feature Detection using FAST Algorithm**
 **Notebook:** `feature_detector_by_using_FAST_detector.ipynb`
 
 #### Algorithm Used
@@ -76,7 +72,7 @@ The template image is slid over the source image, and similarity scores are comp
 
 ---
 
-### **4️⃣ Hough Transform**
+### ** Hough Transform**
 **Notebook:** `unit_4_hough_transform.ipynb`
 
 #### Techniques Implemented
@@ -94,7 +90,7 @@ The template image is slid over the source image, and similarity scores are comp
 
 ---
 
-### **5️⃣ Face Detection using Haar Cascades**
+### ** Face Detection using Haar Cascades**
 **Notebook:** `unit_5_face_detection.ipynb`
 
 #### Algorithm Used
@@ -111,7 +107,7 @@ The template image is slid over the source image, and similarity scores are comp
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
